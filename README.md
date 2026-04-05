@@ -10,13 +10,15 @@
 [![Seguidores](https://img.shields.io/github/followers/rbizarrias?style=for-the-badge&logo=github&label=Seguidores&color=1abc9c)](https://github.com/rbizarrias?tab=followers)
 [![Repositorios](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=16a085&label=Repositorios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frbizarrias)](https://github.com/rbizarrias?tab=repositories)
 
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rbizarrias)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbizarrias)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rivaldo-bizarrias)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/r_bizarrias)
+
 </div>
 
 ---
-
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor full stack com experiência prática na construção de sistemas web e soluções distribuídas em ambientes de cloud híbrida.
+Meu nome é Rivaldo Bizarrias, sou desenvolvedor full stack com experiência prática na construção de sistemas web e soluções distribuídas em ambientes de cloud híbrida.
 
 Atuo com foco em **qualidade, performance, observabilidade e experiência do usuário**, participando desde a concepção até a entrega contínua de software.
 
@@ -25,6 +27,9 @@ Tenho experiência com:
 - Arquiteturas baseadas em microsserviços e mensageria  
 - Monitoramento e observabilidade (logs, métricas e alertas)  
 - Ambientes em cloud (AWS, GCP) e orquestração com Kubernetes  
+---
+## 📜 Certificação
+- AWS Certified Cloud Practitioner
 
 ---
 
@@ -64,23 +69,5 @@ Tenho experiência com:
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,python,java,docker,kubernetes,aws,postgres,mysql,mongodb,git&perline=7)](https://github.com/rbizarrias)
-
-</div>
-
----
-
-## 📜 Certificação
-
-- AWS Certified Cloud Practitioner
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Github](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/rbizarrias)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Rivaldo_Bizarrias-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rivaldo-bizarrias)
 
 </div>
